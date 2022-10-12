@@ -1,0 +1,246 @@
+
+
+
+
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono');
+a{
+	color: #283593;
+	text-decoration: none;
+}
+h3{
+	margin-top: 12px;
+}
+*{
+	margin:0px;
+}
+body{
+background-image: url('https://teneohg.com/wp-content/uploads/2018/08/LAU_MainCasino_10x7_300dpi.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+}
+main{
+	border-radius: 5px;
+	background-image: url('');
+  background-repeat: no-repeat;
+	margin-top: 30px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 15px;
+	padding-right: 15px;
+	margin-left: calc((100% - 580px) / 2);
+	width: 550px;
+}
+section#status{
+	margin-bottom: 25px;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	border-radius: 5px;
+	text-align: center;
+	background-color: red;
+	color: #FFFFFF;
+	font-size: 25px;
+	font-family: 'Roboto Mono', monospace;
+}
+section#Slots{
+	border-radius: 15px;
+	background-color: white;
+}
+section#machine{
+	margin-top: 15px;
+	padding-top: 15px;
+	padding-bottom: 20px;
+	border-radius: 100px;
+	text-align: center;
+	background-color: #AB47BC;
+	color: #FFFFFF;
+	font-size: 25px;
+
+
+
+  
+}
+section#machine:hover{
+	background-color: #BA68C8;
+}
+section#options{
+	margin-top: 20px;
+	padding-top: 5px;
+	border-radius: 5px;
+	background-color: #C62828;
+	color: #FFFFFF;
+}
+.option{
+	padding-left: 5px;
+}
+
+#slot1, #slot2, #slot3{
+	display: inline-block;
+	margin-top: 5px;
+	margin-left: 15px;
+	margin-right: 15px;
+	background-size: 150px;
+	width: 150px;
+	height: 150px;
+}
+
+
+
+.a1{
+	background-image: url("images/banana image.jpeg");
+}
+.a2{
+	background-image: url("images/cherry image.png");
+}
+.a3{
+	background-image: url("images/club image.jpeg");
+}
+.a4{
+	background-image: url("images/bar3.jpeg");
+}
+.a5{
+	background-image: url("images/1bar.jpeg");
+}
+.a6{
+	background-image: url("images/spades.webp");
+}
+.a7{
+	background-image: url("images/seven image.jpeg");
+}
+
+
+
+
+
+
+
+
+/*Rules*/
+
+
+
+
+/* CSS */
+.button-1 {
+  background-color: #fbeee0;
+  border: 2px solid red;
+  border-radius: 30px;
+  display: inline-block;
+  font-weight: 600;
+  font-size: 18px;
+  padding: 0 18px;
+  line-height: 50px;
+  text-align: center;
+  
+  
+  
+}
+
+
+
+.button-1:active {
+  box-shadow: #422800 2px 2px 0 0;
+  transform: translate(2px, 2px);
+}
+
+
+
+.buttons{
+  
+
+  text-align: left;
+  float:unset;
+  font-family: fantasy;
+  font-size: 1px;
+  
+
+}
+
+
+.buttons2{
+  
+
+  text-align: right;
+  float:unset;
+  font-family: fantasy;
+  font-size: 1px;
+  
+
+}
+
+
+
+
+.list{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 30px;
+  text-align:center;
+  top: -500px;
+  position: relative
+  
+  
+
+}
+
+
+.tabs {
+ 
+height: 100%;
+width: 0;
+position: fixed; 
+left: 0;
+top: 0;
+background-color: rgb(0,0,0); 
+background-color: rgba(0,0,0, 0.9); 
+overflow-x: hidden; 
+transition: 0.5s; 
+}
+
+
+.tabs-content {
+  position: relative;
+  top: 25%; 
+  width: 100%; 
+  text-align: center;
+  margin-top: 30px; 
+}
+
+.tabs a,ul {
+  padding: 8px;
+  text-decoration: none;
+  font-size: 36px;
+  color: #818181;
+  display: block; 
+  transition: 0.3s; 
+}
+
+
+/*hover color*/
+
+.overlay a:hover, .overlay a:focus {
+  color: #f1f1f1;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
